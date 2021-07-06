@@ -1,0 +1,111 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+    margin:10% 5%;
+
+
+}
+h1{
+    font-size: 50px;
+    margin: 0;
+    padding: 0;  
+ }
+ h2{
+     font-size: 40px;
+     color: gray;
+ }
+ h3{
+     font-size: 25px;
+     margin: 0;
+    padding: 0;  
+ }
+ p{
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0%;
+  padding: 0%;
+ 
+ }
+ 
+.link-button{
+     text-decoration: none;
+     background-image:linear-gradient(to right,rgb(211, 211, 66) ,orange);
+     padding: 10px 40px;
+     border-radius: 20px;
+     font-weight: 700;
+     color: white;
+      
+    
+ }
+ .skip-diet{
+
+   width: 80%;
+   
+   
+ }
+ .skip-diet img{
+     width: 80%;
+     padding-right: 50%;
+     padding-top: 20;
+     
+ }
+ .about-me-img{
+     width: 80%;
+     margin-left: 5%;
+ }
+
+ .flexible-container{
+     display: flex;
+     margin-bottom: 150px;
+ }
+ .back-img1
+ {
+     background-image: url(image/shape/7.png);
+     background-repeat: no-repeat;
+ }
+ .second-division{
+  padding-right: 30%  ;
+  margin: auto;
+  margin-left: 20%;
+ 
+ }
+ .first-shadow{
+
+    box-shadow: 10px 10px 40px  yellowgreen;
+ }
+ .last-banner
+ {
+    width: 50%;
+    
+ }
+ .last-banner img{
+     width: 90%;
+
+     border-radius:40px; 
+     padding-left: 0.1cm;
+     padding-top: 0.5cm;
+     
+ }
+ .last-shadow{
+  
+    margin-left: 5%;
+    margin-right: 5%;
+   box-shadow: 20px 10px 40px gray; 
+   padding-left: 20px;
+   border-radius: 20px;
+   
+ 
+  
+ }
+ .social-banner{
+    width: 50%;
+    margin: 1cm;
+ }
+ .social-shadow{
+    margin-left: 5%;
+    margin-right: 5%;
+   box-shadow: 5px 0px 5px gray; 
+   padding-left: 50px;
+   border-radius: 0.5cm;
+  
+
+ }
