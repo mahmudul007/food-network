@@ -4,6 +4,7 @@ body{
     margin:10% 5%;
 
 
+
 }
 h1{
     font-size: 50px;
@@ -25,7 +26,23 @@ h1{
   padding: 0%;
  
  }
- 
+ #space{
+    
+     text-decoration: none;
+     color: white;
+ }
+ .first-heading{
+    text-decoration: none;
+     background-image:linear-gradient(to right,rgb(91, 23, 180) ,rgb(30, 211, 75));
+     padding:  40px;
+     border-radius: 20px;
+     font-weight: 700;
+   
+     padding-right: 2cm;
+     text-align:right;
+     
+
+ }
 .link-button{
      text-decoration: none;
      background-image:linear-gradient(to right,rgb(211, 211, 66) ,orange);
@@ -110,8 +127,12 @@ h1{
 
  }
 footer{
-    text-align:center;
-    background-color: black;
+   
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color:black;
     color: white;
-    padding: 100px;
+    text-align: center;
+    padding: 50px;
 }
