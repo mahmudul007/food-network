@@ -109,3 +109,9 @@ h1{
   
 
  }
+footer{
+    text-align:center;
+    background-color: black;
+    color: white;
+    padding: 100px;
+}
